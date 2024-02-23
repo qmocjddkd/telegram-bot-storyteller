@@ -1,0 +1,8 @@
+lexicon = {
+    "start_message": "Привет! Я бот, который расказывает сказки. Просто отправьте мне параметры сказки в формате:\nязык сказки, пол ребенка, имя ребёнка, возраст ребенка, любимые персонажи(необязательно, разделять через 'и'), тема, жанр\n\nHello! I am a bot that tells fairytales. Send me the parameters of the fairy tale in the format:\nlanguage, child's sex, child's name, child's age, favorite characters(optional, separated by 'and'), theme, genre",
+    "help_message": "Формат: язык сказки, пол ребенка, имя ребёнка, возраст ребенка, любимые персонажи(необязательно, несколько через 'и'), тема, жанр\n\nHello! I am a bot that tells fairytales. Send me the parameters of the fairy tale in the format:\nlanguage, child's sex, child's name, child's age, favorite characters(optional, separated by 'and'), theme, genre",
+    "creating_message": "Создание...|Creating...",
+    "ready_message": "Готово!|Ready!",
+    "other_message": "Я не понимаю, что это значит. Попробуйте ещё раз.\nЯ напоминаю формат: язык сказки, пол ребенка, имя ребёнка, возраст ребенка, любимые персонажи(необязательно, разделять через 'и'), тема, жанр\n\nHello! I am a bot that tells fairytales. Send me the parameters of the fairy tale in the format:\nlanguage, child's sex, child's name, child's age, favorite characters(optional, separated by 'and'), theme, genre",
+    "prompt": "Generate a {} fairy tale on {} language on a {} theme about {}-year-old {} named {}."
+}   
